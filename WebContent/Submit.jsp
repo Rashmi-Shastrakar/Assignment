@@ -15,5 +15,6 @@
 		else
 			out.println("Incorrect username or password");
 	%>
+<a href="Login.jsp">Back</a>
 </body>
 </html>
